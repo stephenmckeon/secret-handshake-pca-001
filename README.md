@@ -39,4 +39,6 @@ handshake = SecretHandshake.new "11001"
 handshake.commands # => ["jump","wink"]
 ```
 
-Note: The program should consider strings specifying an invalid binary sequence as the value 0.
+Note: The program should return an empty array when given an invalid binary sequence.
+
+P.S: There are tons of ways to do this! Your solutions will vary greatly!
