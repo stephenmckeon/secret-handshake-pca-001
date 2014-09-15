@@ -1,6 +1,7 @@
 ---
   tags: todo, bitwise operations, oop
   languages: ruby
+  resources: 2
 ---
 
 # Binary Secret Handshake
@@ -42,3 +43,6 @@ handshake.commands # => ["jump","wink"]
 Note: The program should return an empty array when given an invalid binary sequence.
 
 P.S: There are tons of ways to do this! Your solutions will vary greatly!
+## Resources
+* [Wikipedia](http://en.wikipedia.org/) - [Binary number](http://en.wikipedia.org/wiki/Binary_number)
+* [Ruby's bitwise operators Calle Erldansson's Blog](http://calleerlandsson.com/) - [Ruby's bitwise operators](http://calleerlandsson.com/rubys-bitwise-operators)
