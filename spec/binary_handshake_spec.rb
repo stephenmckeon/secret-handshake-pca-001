@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe 'SecretHandshake' do 
   it 'should know how to wink with a 1' do
     handshake = SecretHandshake.new("1")
