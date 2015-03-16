@@ -1,5 +1,5 @@
 ---
-  tags: todo, bitwise operations, oop
+  tags: bitwise operations, object orientation, bonus
   languages: ruby
   resources: 2
 ---
