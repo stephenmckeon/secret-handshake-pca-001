@@ -42,3 +42,5 @@ P.S: There are tons of ways to do this! Your solutions will vary greatly!
 ## Resources
 * [Wikipedia](http://en.wikipedia.org/) - [Binary number](http://en.wikipedia.org/wiki/Binary_number)
 * [Ruby's bitwise operators Calle Erldansson's Blog](http://calleerlandsson.com/) - [Ruby's bitwise operators](http://calleerlandsson.com/rubys-bitwise-operators)
+
+<a href='https://learn.co/lessons/secret-handshake' data-visibility='hidden'>View this lesson on Learn.co</a>
