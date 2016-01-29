@@ -43,4 +43,4 @@ P.S: There are tons of ways to do this! Your solutions will vary greatly!
 * [Wikipedia](http://en.wikipedia.org/) - [Binary number](http://en.wikipedia.org/wiki/Binary_number)
 * [Ruby's bitwise operators Calle Erldansson's Blog](http://calleerlandsson.com/) - [Ruby's bitwise operators](http://calleerlandsson.com/rubys-bitwise-operators)
 
-<a href='https://learn.co/lessons/secret-handshake' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/secret-handshake' title='Binary Secret Handshake'>Binary Secret Handshake</a> on Learn.co and start learning to code for free.</p>
